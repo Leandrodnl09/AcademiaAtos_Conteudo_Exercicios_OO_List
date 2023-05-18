@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AcademiaAtos_OO_EditorTexto/1.0.0": {
+        "runtime": {
+          "AcademiaAtos_OO_EditorTexto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcademiaAtos_OO_EditorTexto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

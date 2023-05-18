@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\bin\Debug\net6.0\AcademiaAtos_Exercicio07.exe
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\bin\Debug\net6.0\AcademiaAtos_Exercicio07.deps.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\bin\Debug\net6.0\AcademiaAtos_Exercicio07.runtimeconfig.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\bin\Debug\net6.0\AcademiaAtos_Exercicio07.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\bin\Debug\net6.0\AcademiaAtos_Exercicio07.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\obj\Debug\net6.0\AcademiaAtos_Exercicio07.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\obj\Debug\net6.0\AcademiaAtos_Exercicio07.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\obj\Debug\net6.0\AcademiaAtos_Exercicio07.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\obj\Debug\net6.0\AcademiaAtos_Exercicio07.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\obj\Debug\net6.0\AcademiaAtos_Exercicio07.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\obj\Debug\net6.0\AcademiaAtos_Exercicio07.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\obj\Debug\net6.0\refint\AcademiaAtos_Exercicio07.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\obj\Debug\net6.0\AcademiaAtos_Exercicio07.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\obj\Debug\net6.0\AcademiaAtos_Exercicio07.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Exercicios\AcademiaAtos_Exercicio07\obj\Debug\net6.0\ref\AcademiaAtos_Exercicio07.dll

@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\bin\Debug\net6.0\AcademiaAtos_OO_EditorTexto.exe
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\bin\Debug\net6.0\AcademiaAtos_OO_EditorTexto.deps.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\bin\Debug\net6.0\AcademiaAtos_OO_EditorTexto.runtimeconfig.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\bin\Debug\net6.0\AcademiaAtos_OO_EditorTexto.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\bin\Debug\net6.0\AcademiaAtos_OO_EditorTexto.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\obj\Debug\net6.0\AcademiaAtos_OO_EditorTexto.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\obj\Debug\net6.0\AcademiaAtos_OO_EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\obj\Debug\net6.0\AcademiaAtos_OO_EditorTexto.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\obj\Debug\net6.0\AcademiaAtos_OO_EditorTexto.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\obj\Debug\net6.0\AcademiaAtos_OO_EditorTexto.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\obj\Debug\net6.0\AcademiaAtos_OO_EditorTexto.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\obj\Debug\net6.0\refint\AcademiaAtos_OO_EditorTexto.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\obj\Debug\net6.0\AcademiaAtos_OO_EditorTexto.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\obj\Debug\net6.0\AcademiaAtos_OO_EditorTexto.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula22\AcademiaAtos_Conteudo_OO\AcademiaAtos_OO_EditorTexto\obj\Debug\net6.0\ref\AcademiaAtos_OO_EditorTexto.dll

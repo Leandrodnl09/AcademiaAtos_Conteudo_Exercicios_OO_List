@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AcaademiaAtos_Conteudo02_Abstract/1.0.0": {
+        "runtime": {
+          "AcaademiaAtos_Conteudo02_Abstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcaademiaAtos_Conteudo02_Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
